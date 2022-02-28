@@ -18,5 +18,5 @@ class Procedure:
     def get_charges(self):
         return self.__charges
 
-    def get_ID(self):
+    def get_id(self):
         return self.__cid
